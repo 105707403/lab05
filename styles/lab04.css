@@ -1,0 +1,90 @@
+/*
+
+filename: Nguyen Tang Nhat Hung
+
+author: Nguyen Tang Nhat Hung
+
+created: September 26th, 2025
+
+last modified: September 26th,
+2025
+
+description: lab04.html
+
+*/
+
+h1 {
+  color: purple;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+* {
+  color: #2F4F4F;
+}
+
+h2 {
+  color: rgb(0, 128, 128);
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+aside,
+footer {
+  font-style: italic;
+}
+
+h1,
+h2,
+h3 {
+  font-family: arial, sans-serif;
+}
+
+/* Table styles */
+table {
+  border: 1px solid black;
+}
+
+th,
+td,
+table {
+  border: 1px solid black;
+}
+
+.month {
+  text-align: right;
+}
+
+#image {
+  text-align: center;
+}
+
+#heading-3 {
+  color: red;
+}
+
+.special {
+  color: darkorange;
+  font-weight: bold;
+}
+
+aside:hover {
+  display: none;
+}
+
+/* Navigation Menu styles */
+nav a {
+  text-decoration: none;
+  padding: 0.2em 0.6em;
+  border: 4px solid #ccc;
+}
+
+nav a:hover {
+  color: lightblue;
+  border: darkblue;
+}
+
+/* Bullet points styles */
+ol ul {
+  list-style-type: square;
+}
